@@ -6,8 +6,8 @@ In this project, we are going to transfer files across two Amazon S3 (Simple Sto
 
 ## Steps to follow:
 
-1- Create a **Simple Storage Service bucket (S3)** in the **Source Account**.  
-2- Add files in the **Source S3 bucket**.
+1- Create a **Simple Storage Service(S3) bucket** in the **Source Account**.  
+2- Add files in the **Source S3 bucket**.  
 3- Create a **Simple Storage Service (S3)** bucket in the **Destination Account**.  
 4- Create an **IAM role (Identity and Access Management)** in the **Source Account**.  
 5- Attach the required **policy** to the **IAM role**.  
