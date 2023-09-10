@@ -12,7 +12,7 @@ In this project, we are going to transfer files across two Amazon S3 (Simple Sto
 4- Create an **IAM role (Identity and Access Management)** in the **Source Account**.  
 5- Attach the required **policy** to the **IAM role**.  
 6- Attach the required **policy** to the **Destination bucket**.  
-7- Create a **Lambda Function** in the **Source Account**.
+7- Create a **Lambda Function** in the **Source Account**.  
 8- Edit the **source code** of the **Lambda function**. (**Scripting**)  
 9- **Deploy** and **Test** the **Script** written in the **Lambda function**.  
 10- File Transfer Successful.
